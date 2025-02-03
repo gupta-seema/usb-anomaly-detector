@@ -113,5 +113,5 @@ pip install pandas ijson openpyxl
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
 
 ## Author
-Created by [Your Name]. This tool was designed to enhance IT security and compliance workflows by identifying unauthorized USB connections.
+Created by Seema Gupta. This tool was designed to enhance IT security and compliance workflows by identifying unauthorized USB connections.
 
