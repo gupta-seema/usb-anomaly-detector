@@ -1,0 +1,32 @@
+[
+    {
+        "@timestamp": "1737352797359",
+        "Company": "ABC, ILLINOIS",
+        "ComputerName": "ABC012",
+        "DcPolicyAction": "Full access",
+        "DeviceId": "1242_9519_123",
+        "DeviceUsbClass": "Human Interface Device | Use class information in the Interface Descriptors",
+        "LocalAddressIP4": "00.123.954.33",
+        "MachineDomain": "le.ccsheriff.org",
+        "OU": "[\"Mobile Clients\",\"Computers\",\"Cops\",\"Sheriff\"]",
+        "SiteName": "California",
+        "USBDevice": "Panasonic USB Keyboard (S/N: )",
+        "event_platform": "Win",
+        "timestamp_UTC_readable": "2025-01-20T05:59:57+0000"
+    },
+    {
+        "@timestamp": "1737352797359",
+        "Company": "ABC, ILLINOIS",
+        "ComputerName": "XYZ002",
+        "DcPolicyAction": "Full access",
+        "DeviceId": "8522_8_",
+        "DeviceUsbClass": "Use class information in the Interface Descriptors | Human Interface Device",
+        "LocalAddressIP4": "22.236.214.55",
+        "MachineDomain": "le.ccsheriff.org",
+        "OU": "[\"Mobile Clients\",\"Computers\",\"Cops\",\"Sheriff\"]",
+        "SiteName": "California",
+        "USBDevice": "Interlink Electronics, Inc. VersaPad (S/N: )",
+        "event_platform": "Win",
+        "timestamp_UTC_readable": "2025-01-20T05:59:57+0000"
+    }
+]
